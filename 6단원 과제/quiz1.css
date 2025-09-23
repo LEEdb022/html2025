@@ -1,0 +1,18 @@
+table { 
+    caption-side: bottom;
+    border: 1px #000000 solid;
+    border-collapse: collapse;
+    width: 501px;
+}
+
+caption {
+    text-align: right;
+}
+
+td {
+    text-align: right;
+}
+td, th {
+    border: 1px #000000 solid;
+    padding: 10px;
+}
